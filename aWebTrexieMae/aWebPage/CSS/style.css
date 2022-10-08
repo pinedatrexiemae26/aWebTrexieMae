@@ -1,0 +1,9 @@
+a:hover{
+    color: green;
+    TEXT-DECORATION: none;
+  }  
+
+a:active{
+    color: green;
+    TEXT-DECORATION: none;
+  } 
